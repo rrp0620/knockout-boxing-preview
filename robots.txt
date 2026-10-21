@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rrp0620.github.io/knockout-boxing-preview/sitemap.xml
